@@ -1,4 +1,4 @@
 # 1st-Repo
-This is my first repository, including a small operation.
+This is my first repository.
 <br>
 Hello Github
